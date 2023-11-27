@@ -38,7 +38,7 @@ nav .nav-right-section img{
 }
 
 nav .nav-right-section .menu-icon {
-background-image: url("/9iconos.png");
+background-image: url("imagenes/9iconos.png");
 width: 17px;
 height: 17px;
 background-size:contain;
@@ -87,7 +87,7 @@ box-shadow: 0 1px 6px 0
 }
 
 main .main-input .search-icon {
-    background-image: url("/lupa.png");
+    background-image: url("imagenes/lupa.png");
     width: 18px;
     height: 18px;
     padding-left: 25px;
